@@ -1,0 +1,16 @@
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.deps.json
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.json
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.dev.json
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.pdb
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.pdb
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfoInputs.cache
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfo.cs
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.csproj.CopyComplete
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\Users\bplos\Desktop\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.pdb
